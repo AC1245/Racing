@@ -1,2 +1,2 @@
 # Racing
-No
+Press z to restart
